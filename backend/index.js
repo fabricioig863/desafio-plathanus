@@ -1,13 +1,13 @@
 const express = require('express');
-const app = express()
-const PORT = 5000
+const app = express();
 const newsRouter = require('./routers/news');
 
 app.use(express.static('public'));
 app.use(express.static('data/uploads'));
-app.use('/api', newsRouter); // => localhost:3000/api/create
+app.use('/api', newsRouter);
+
+const PORT = process.env.PORT || 3333;
 
 app.listen(PORT, () => {
-  console.log(`Server running port on ${PORT}`);
-})
-
+  console.log(`App is running on port ${PORT}.`);
+});

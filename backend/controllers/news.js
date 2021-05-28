@@ -1,5 +1,5 @@
 const News = require('../news/newsApp');
-const imageProcess = require('../utils/imageProcess');
+const imageProcess = require('../util/imageProcess');
 
 const news = new News();
 
@@ -9,13 +9,13 @@ const createNews = async (req, res) => {
   try {
     const imageName = await imageProcess(req, id);
     news.create(req.body, id, imageName); // http://locahost:3000/image-name
-    res.json({ success: true, message: 'Postagem criada com sucesso.' });
+    res.json({ success: true, message: 'Post created successfully.' });
   } catch (error) {
     res.json({
       success: false,
-      message: 'Algo deu errado, erro do servidor!',
+      message: 'Something went wrong, server error!',
     });
-    console.log('Erro ao criar notícias', error.message);
+    console.log('Error while creating news', error.message);
   }
 };
 
@@ -26,9 +26,9 @@ const getAllNews = async (req, res) => {
   } catch (error) {
     res.json({
       success: false,
-      message: 'Algo deu errado, erro do servidor!',
+      message: 'Something went wrong, server error!',
     });
-    console.log('Erro ao obter todas as notícias', error.message);
+    console.log('Error while getting all news', error.message);
   }
 };
 
@@ -38,7 +38,7 @@ const getSingleNews = async (req, res) => {
     if (!data) {
       return res.json({
         success: false,
-        message: 'Postagem não encontrada!',
+        message: 'Post not found!',
       });
     }
 
@@ -49,9 +49,9 @@ const getSingleNews = async (req, res) => {
   } catch (error) {
     res.json({
       success: false,
-      message: 'Algo deu errado, erro do servidor!',
+      message: 'Something went wrong, server error!',
     });
-    console.log('Erro ao obter notícias únicas', error.message);
+    console.log('Error while getting single news', error.message);
   }
 };
 
@@ -60,7 +60,7 @@ const getNewsByCategory = async (req, res) => {
     const { category, qty } = req.params;
     const data = await news.getByCategory(category);
     if (!data) {
-      return res.json({ success: false, message: 'Postagens não encontradas!' });
+      return res.json({ success: false, message: 'Posts not found!' });
     }
 
     if (qty) {
@@ -71,9 +71,9 @@ const getNewsByCategory = async (req, res) => {
   } catch (error) {
     res.json({
       success: false,
-      message: 'Algo deu errado, erro do servidor!',
+      message: 'Something went wrong, server error!',
     });
-    console.log('Erro ao obter notícias únicas', error.message);
+    console.log('Error while getting news by category!', error.message);
   }
 };
 
@@ -83,15 +83,15 @@ const searchPosts = async (req, res) => {
     if (query.trim()) {
       const response = await news.searchPosts(req.params.query);
       if (response.length === 0)
-        return res.json({ success: false, message: 'Nenhuma combinação encontrada.' });
+        return res.json({ success: false, message: 'No match found..' });
       res.json({ success: true, news: response });
     }
 
-    res.json({ success: false, message: 'Nenhuma combinação encontrada.' });
+    res.json({ success: false, message: 'No match found..' });
   } catch (error) {
     res.json({
       success: false,
-      message: 'Algo deu errado, erro do servidor!',
+      message: 'Something went wrong, server error!',
     });
     console.log(error);
   }

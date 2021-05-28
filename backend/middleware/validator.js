@@ -1,41 +1,52 @@
 const { check, validationResult } = require('express-validator');
 
-const exceptedCategory = ['entertainment', 'political', 'tech']
+const exceptedCategory = [
+  'entertainment',
+  'political',
+  'tech',
+  'breaking-news',
+];
 
 const validator = [
-  check('title').trim().not().isEmpty().withMessage('Título obrigatório'),
-  check('content').trim().not().isEmpty().withMessage('Conteúdo obrigatório'),
-  check('category').isIn(exceptedCategory).withMessage('Selecione um categoria'),
-]
+  check('title').trim().not().isEmpty().withMessage('Title is required!'),
+  check('content')
+    .trim()
+    .not()
+    .isEmpty()
+    .withMessage('Must have some content!'),
+  check('category')
+    .isIn(exceptedCategory)
+    .withMessage('Select at least one category!'),
+];
 
 const result = (req, res, next) => {
   const result = validationResult(req);
   const hasError = !result.isEmpty();
 
   if (hasError) {
-    const error = result.array()[0].msg
-    res.json({ sucess: false, message: error })
+    const error = result.array()[0].msg;
+    res.json({ success: false, message: error });
   }
 
-  next()
-}
+  next();
+};
 
 const validateFile = (req, res, next) => {
-  const exceptedFileType = ['png', 'jpg', 'jpeg']
+  const exceptedFileType = ['png', 'jpg', 'jpeg'];
   if (!req.file) {
-    return res.json({ sucess: false, message: 'Imagem obrigatória' })
+    return res.json({ success: false, message: 'Image is required!' });
   }
 
   const fileExtension = req.file.mimetype.split('/').pop();
   if (!exceptedFileType.includes(fileExtension)) {
-    return res.json({ sucess: false, message: 'Imagem inválida, formato válido [png, jpeg, jpg]' })
+    return res.json({ success: false, message: 'Image file is not valid!' });
   }
 
   next();
-}
+};
 
 module.exports = {
   validator,
   result,
-  validateFile
-}
+  validateFile,
+};
