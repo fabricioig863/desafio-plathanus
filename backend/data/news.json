@@ -1,50 +1,128 @@
 [
   {
-    "title": "tityulo",
-    "content": "dsaddasdsfdsfdcref",
-    "category": "0",
-    "id": "1622157246948",
-    "thumbnail": "http://localhost:3000/1622157246948-1080x1920.png"
-  },
-  {
-    "title": "Titulo",
-    "content": "dfdfdffdfd",
-    "category": "breaking-news",
-    "id": "1622157277541",
-    "thumbnail": "http://localhost:3000/1622157277541-1080x1920.png"
-  },
-  {
-    "title": "Titulo",
-    "content": "dfdfdffdfd",
-    "category": "tech",
-    "id": "1622157285728",
-    "thumbnail": "http://localhost:3000/1622157285728-1080x1920.png"
-  },
-  {
-    "title": "Titulo da minha postagem",
-    "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-    "category": "breaking-news",
-    "featured": "on",
-    "id": "1622158139482",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",
-    "thumbnail": "http://192.168.0.103:3000/1622158139482-1200px-React-icon.svg.png"
-  },
-  {
-    "title": "Titulo da minha postagem",
-    "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+    "title": "Samsung introduces first Galaxy Tab 'Fan Edition' tablet",
+    "content": "A Samsung anunciou na Alemanha o Galaxy Tab S7 FE (ou 'Fan Edition'), seu primeiro tablet da linha, até então composto apenas por telefones da marca sul-coreana como o Galaxy S20 Fan Edition.\r\n\r\nA novidade foi divulgada esta semana pelo portal WinFuture . Como de costume, o modelo traz alguns componentes mais básicos para chegar ao varejo com um preço final mais atraente.\r\n\r\nA princípio, a tela de 12,4 ″ é do mesmo tamanho que a de seu irmão mais caro (Galaxy Tab S7 Plus). Também há compatibilidade com a S Pen Pen e com o suporte de teclado usado no modelo topo de linha.\r\n\r\nNo entanto, o painel AMOLED foi substituído por um painel LCD e a resolução também caiu de 2.800 x 1.752 para 2.560 x 1600 pixels. A taxa de atualização de 120 Hz também foi deixada de fora do modelo 'Fan Edition'.\r\n\r\nO processador também mudou do Snapdragon 865 Plus para o intermediário 750G. Em RAM, o Galaxy Tab S7 Fan Edition possui 4 GB. O armazenamento interno de 64 GB também pode ser expandido via cartão microSD.\r\n\r\nEm termos de câmeras, o novo tablet da Samsung vem equipado com um único sensor de 8 MP na parte traseira, enquanto o Tab S7 Plus possui dois sensores de 13 MP e 5 MP. A câmera frontal também foi rebaixada, de um sensor de 8 MP para um 5 MP mais simples.",
     "category": "tech",
     "featured": "on",
-    "id": "1622158146251",
-    "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alter...",
-    "thumbnail": "http://192.168.0.103:3000/1622158146251-1200px-React-icon.svg.png"
+    "id": "1622206917490",
+    "desc": "A Samsung anunciou na Alemanha o Galaxy Tab S7 FE (ou 'Fan Edition'), seu primeiro tablet da linha, ...",
+    "thumbnail": "http://192.168.1.6:3000/1622206917490-galaxy-tab-s7-fan-edition.png"
   },
   {
-    "title": "ggggggg",
-    "content": "dddddddddd",
+    "title": "Brasil passa a ser um dos 10 maiores do mundo em energia solar",
+    "content": "Sabe-se que o Brasil possui uma grande capacidade de geração de energia por meio do sol, setor que corresponde a 1,7% de toda a matriz energética brasileira. Segundo dados da Agência Nacional de Energia Elétrica (ANEEL) e da Associação Brasileira de Energia Solar Fotovoltaica (Absolar), 3,2 gigawatts foram adicionados em novos projetos de energia. geração solar no país em 2020. Isso nos colocou entre os países com maior capacidade instalada de sistemas desse tipo.\r\n\r\nNo ranking, liderado pela China, o Brasil já ocupa a 9ª colocação. Em segundo lugar, estão os EUA, seguidos pelo Vietnã, Japão e Alemanha . A pesquisa, realizada pela Absolar com base em dados do Programa de Sistemas de Energia Fotovoltaica da Agência Internacional de Energia (IEA PVPS), inclui grandes usinas e pequenos sistemas. A expectativa, segundo a entidade, é que o país continue subindo na lista, principalmente em função do bom momento da atividade por aqui.",
+    "category": "tech",
+    "featured": "on",
+    "id": "1622207013804",
+    "desc": "Sabe-se que o Brasil possui uma grande capacidade de geração de energia por meio do sol, setor que c...",
+    "thumbnail": "http://192.168.1.6:3000/1622207013804-shutterstock_763594540.jpg"
+  },
+  {
+    "title": "'Cobra Kai': Terry Silver está de volta na temporada 4; ver teaser",
+    "content": "Lembra dele? O Netflix divulgou um teaser confirmando o retorno de Terry Silver (Thomas Ian Griffith), o vilão de ' Karate Kid 3 - The Final Challenge', da série 'Cobra Kai'. O vídeo com ar de suspense ( veja abaixo ) mostra apenas o antagonista nas costas, de forma misteriosa.\r\n\r\nAinda na prévia, o personagem - agora mais velho - aparece acompanhado de uma narração dos diálogos do personagem retirados do terceiro filme da franquia. No final do vídeo, você pode ler a frase: “Agora começa a verdadeira dor”.\r\n\r\nEm 'Karate Kid 3', lançado em 1989, Silver se apresentou como um aliado de Daniel LaRusso. Durante o filme, o personagem mostra suas verdadeiras intenções e tenta seduzir o protagonista para o “lado Cobra Kai” na véspera do Torneio Regional de Karatê do Vale.\r\n\r\nEm 'Cobra Kai', no final da 3ª temporada, vemos John Kreese (Martin Kove) ligando para Silver, que já indicava que o vilão voltaria na nova temporada. Então, no novo ano, provavelmente veremos o psicológico de Daniel-San sendo afetado e, o que deve ser inédito, o primeiro encontro entre o vilão e Johnny Lawrence (William Zabka).",
+    "category": "tech",
+    "featured": "on",
+    "id": "1622207105382",
+    "desc": "Lembra dele? O Netflix divulgou um teaser confirmando o retorno de Terry Silver (Thomas Ian Griffith...",
+    "thumbnail": "http://192.168.1.6:3000/1622207105382-a-2.jpg"
+  },
+  {
+    "title": "Lucro da Lenovo sobe 512% no primeiro trimestre de 1",
+    "content": "Superando as previsões dos analistas, a chinesa Lenovo conseguiu um aumento de 512% no lucro registrado no primeiro trimestre deste ano, em relação ao mesmo período do ano passado. O exercício fiscal da empresa, encerrado em 31 de março de 2021, aponta lucro de US $ 260 milhões, superando a expectativa de US $ 204,7 milhões elaborada por analistas financeiros.\r\n\r\nAlém disso, a Lenovo registrou um aumento de 48% na receita anual, excedendo o valor projetado em US $ 10,58 bilhões. A expectativa era levantar US $ 14,33 bilhões, mas a empresa atingiu a marca de US $ 15,63 bilhões - um dos maiores crescimentos da última década, segundo informou a empresa. O presidente da Reuters Lenovo, Yang Yuanqing. \r\n\r\nO bom resultado é reflexo do isolamento social imposto pela pandemia, situação que influenciou o crescimento das compras de laptops e computadores, principalmente com foco em estudos e trabalho remoto.",
+    "category": "tech",
+    "featured": "on",
+    "id": "1622207178689",
+    "desc": "Superando as previsões dos analistas, a chinesa Lenovo conseguiu um aumento de 512% no lucro registr...",
+    "thumbnail": "http://192.168.1.6:3000/1622207178689-shutterstock_1692627676-1024x754.jpg"
+  },
+  {
+    "title": "Anvisa autoriza novas condições de armazenamento para vacina da Pfizer",
+    "content": "Imunizante pode ser conservado em temperatura controlada entre 2ºC e 8ºC por até 31 dias. Agências dos Estados Unidos e Europa também estenderam tempo de armazenamento.\r\nA Agência Nacional de Vigilância Sanitária (Anvisa) autorizou nesta sexta-feira (28) novas condições de conservação e armazenamento para a vacina da Pfizer.\r\n\r\nAgora, a vacina pode ser mantida em temperatura controlada entre 2ºC e 8ºC por até 31 dias. A orientação anterior era de cinco dias.\r\n\r\nPara aprovar as novas condições, a equipe técnica da Anvisa avaliou os estudos de estabilidade apresentados pelo laboratório desenvolvedor da vacina. \"Os estudos de estabilidade servem para definir por quanto tempo e em quais condições a vacina mantém suas características sem alteração\", disse a agência, em nota.\r\n\r\nAs agências reguladoras dos Estados Unidos e da Europa também estenderam o tempo de armazenamento do imunizante para um mês.",
+    "category": "breaking-news",
+    "featured": "on",
+    "id": "1622207332670",
+    "desc": "Imunizante pode ser conservado em temperatura controlada entre 2ºC e 8ºC por até 31 dias. Agências d...",
+    "thumbnail": "http://192.168.1.6:3000/1622207332670-whatsapp-image-2021-05-27-at-16.33.49.jpeg"
+  },
+  {
+    "title": "Mulher liga para a PM pedindo pizza e policial entende pedido de socorro...",
+    "content": "Uma mulher de 54 anos, moradora de Andradina (SP), entrou em contato com a Polícia Militar pelo 190 ontem à noite e fez um pedido inusitado: uma pizza. O soldado que estava atendendo aos chamados no Copom (Comando de Policiamento do Interior) em Araçatuba, também no interior paulista, entendeu que se tratava de um pedido de socorro e pediu que uma equipe se deslocasse até o endereço indicado na ligação para averiguar o possível caso de violência doméstica. Chegando à residência, eles confirmaram as suspeitas.\r\nSegundo o Boletim de Ocorrência, o suspeito, um homem de 57 anos, fugiu assim que viu a viatura se aproximando e a mulher que havia ligado pela suposta pizza denunciou que estaria sofrendo agressões físicas e psicológicas nas mãos do marido. Em depoimento, ela alegou que o companheiro passou mais de 20 anos preso e que, desde que retornou para a casa, vinha a agredindo verbalmente, com xingamentos e ofensas. Além disso, a mulher declarou que recebeu ameaças de morte mais cedo naquele dia e que o marido teria dito que se não conseguisse matá-la, mataria os filhos dela. A ameaça ocorreu, segundo a vítima, porque o suspeito chegou em casa de posse de uma motocicleta e, como ele não ... - Veja mais em",
+    "category": "breaking-news",
+    "id": "1622207561664",
+    "desc": "Uma mulher de 54 anos, moradora de Andradina (SP), entrou em contato com a Polícia Militar pelo 190 ...",
+    "thumbnail": "http://192.168.1.6:3000/1622207561664-download.jpg"
+  },
+  {
+    "title": "Brasil registra 2.130 novas mortes por Covid e ultrapassa 456 mil; média móvel fica abaixo de 1,8 mil",
+    "content": "País contabiliza 456.753 óbitos e 16.341.112 casos, segundo balanço do consórcio de veículos de imprensa com informações das secretarias de Saúde. Com média de 1.766 óbitos por dia, Brasil vê curva há 9 dias em estabilidade.\r\n\r\nO Brasil registrou 2.130 mortes por Covid-19 nas últimas 24 horas, totalizando nesta quinta-feira (27) 456.753 óbitos desde o início da pandemia. Com isso, a média móvel de mortes nos últimos 7 dias chegou a 1.766 --a menor desde o dia 12 de março (quando estava em 1.761). Em comparação à média de 14 dias atrás, a variação foi de -8% e indica tendência de estabilidade nos óbitos decorrentes do vírus.\r\n\r\nÉ o 9º dia seguido de estabilidade nessa comparação. Isso significa que, apesar de voltarmos a ter a média abaixo da marca de 1,8 mil, o ritmo atual tem se assemelhado mais a um platô do que a uma queda na curva.\r\n\r\nOs números estão no novo levantamento do consórcio de veículos de imprensa sobre a situação da pandemia de coronavírus no Brasil, consolidados às 20h desta quarta. O balanço é feito a partir de dados das secretarias estaduais de Saúde.\r\n\r\nSão agora 17 dias com a média de mortes abaixo da marca de 2 mil. De 17 de março até 10 de maio, foram 55 dias seguidos com essa média acima de 2 mil. No pior momento desse período, a média chegou ao recorde de 3.125, no dia 12 de abril.\r\n\r\nQuatro estados aparecem com tendência de alta nas mortes: MS, AP, MA e PB.\r\n\r\nEm casos confirmados, desde o começo da pandemia 16.341.112 brasileiros já tiveram ou têm o novo coronavírus, com 65.672 desses confirmados no último dia. A média móvel nos últimos 7 dias foi de 63.222 novos diagnósticos por dia. Isso representa uma variação de +2% em relação aos casos registrados em duas semanas, o que indica tendência de estabilidade também nos diagnósticos.",
+    "category": "breaking-news",
+    "featured": "on",
+    "id": "1622207717116",
+    "desc": "País contabiliza 456.753 óbitos e 16.341.112 casos, segundo balanço do consórcio de veículos de impr...",
+    "thumbnail": "http://192.168.1.6:3000/1622207717116-corona-9.jpg"
+  },
+  {
+    "title": "Covid-19: como a pandemia do coronavírus afeta nossos sonhos quando dormimos",
+    "content": "Quando o coronavírus atingiu com tudo o planeta no ano passado, muita gente relatou ter sofrido com sonhos vívidos e assustadores.\r\n\r\nDiante da ameaça da Covid-19, nossos cérebros ficaram sobrecarregados e esse estresse foi todo transferido para o nosso estado de sono.\r\n\r\nAgora, mais de um ano depois, com muitas pessoas já costumadas com a vida na pandemia, nós nos propusemos estudar se os sonhos também se adaptaram ao chamado \"novo normal\".\r\n\r\nAs máscaras, as ruas vazias e o distanciamento social agora são apenas parte do cenário dos nossos sonhos? O que você vê quando adormece?\r\n\r\nAqui estão alguns dos sonhos que os leitores nos enviaram.\r\n\r\n\"Eu caminhava em uma praia cheia de tubarões na água e me perguntava por que as pessoas não estavam se distanciando socialmente\", disse Fiona Ramage em Dundee, na Escócia. Ela diz que a pandemia agora é o pano de fundo da maioria de seus sonhos e que às vezes incluem um medo \"casual e natural\" de tossir.\r\n\r\nSayaka, que se mudou do Japão para o Reino Unido com sua família, diz que sua filha de sete anos tem sonhos sobre covid. \"Ela 'fica em casa' [no sonho]. Apenas seus pais usam máscaras e todos os membros da família lavam as mãos no sonho.\"\r\n\r\nJá Mariela Cortés, em Santiago, no Chile, diz que seus sonhos tomaram um rumo mais surreal. \"Eu fico querendo que os animais — cães e gatos — usem máscaras, mas eles não usam.\"\r\n\r\nNós tivemos apenas uma pequena amostra de sonhos enviados por nossos leitores, mas alguns cientistas estão pesquisando esse tema há meses. Deirdre Barrett, psicóloga da Harvard Medical School, nos Estados Unidos, coletou cerca de 15 mil sonhos em uma pesquisa online.\r\n\r\nAté agora, cerca de dois terços dos entrevistados são mulheres e um terço, homens.\r\n\r\nSeu livro sobre a pesquisa, Pandemic Dreams (Sonhos Pandêmicos, em tradução livre), tem como foco a primeira onda da pandemia.\r\n\r\nEla diz que, no início, muitas pessoas sonhavam com perigos como ataques de insetos ou a impossibilidade de respirar. Depois, quando vieram os lockdowns e as aulas em casa, um tema comum era estar em uma prisão ou ser forçado a fazer um teste surpresa de matemática.\r\n\r\nNo entanto, após cerca de seis meses, Barrett disse que notou um aumento significativo nas pessoas com sonhos sobre se esquecer de usar máscara ou de ver outras pessoas sem máscara em público.\r\n\r\nBarrett sugere que os sonhos iniciais, que tendiam a expressar o medo de pegar o vírus, diminuíram e foram sendo substituídos por sonhos sobre ansiedade social.\r\n\r\n\"Muitos sonhos se transformaram em 'esqueci minha máscara' e uma vergonha social tomava conta do sonhador\", diz ela.",
+    "category": "breaking-news",
+    "id": "1622207914778",
+    "desc": "Quando o coronavírus atingiu com tudo o planeta no ano passado, muita gente relatou ter sofrido com ...",
+    "thumbnail": "http://192.168.1.6:3000/1622207914778-118599859-covid-dreams-insects-2x640-nc.jpg"
+  },
+  {
+    "title": "Neil Gaiman responde a pessoas irritadas com o elenco de Sandman da Netflix",
+    "content": "Na última quarta-feira (26) a Netflix anunciou novos nomes para o elenco de Sandman. Alguns dos ditos fãs da HQ protestaram contra a escalação de Kirby Howell-Baptiste como Morte alegando que nos quadrinhos a personagem é branca. A controvérsia levou Neil Gaiman, autor da obra original, a responder a alguns dos comentários.\r\n\r\nSe você acha que os Perpétuos têm alguma raça ou forma humana específica, você perdeu alguma coisa de Sandman. Não se preocupe. Assista à série.”, afirmou o autor.\r\n\r\nOutro leitor aproveitou a interação para perguntar por que Gaiman escreveu a Morte “como uma garota gótica”. A isso o autor respondeu:\r\n\r\n“Estou meio embasbacado que você ainda pergunte. Morte apareceu em Sandman 8. Em Sandman 9, Contos na Areia, vemos os Perpétuos 10.000 anos atrás e eles são negros. Você se esqueceu disso?”.\r\n\r\nA um outro fã exaltado, Gaiman pediu calma. “Pare de se preocupar. Está tudo bem. A coisa mais importante sobre a Morte é que ela é a Morte: útil, sensível, perdoadora, maravilhosa. Ela é branca, negra, humana, pássaro e alienígena. Leia Sandman novamente.”\r\n\r\nA primeira temporada de Sandman terá onze episódios, mas ainda não tem uma previsão de estreia na Netflix.",
     "category": "entertainment",
-    "featured": "on",
-    "id": "1622158382132",
-    "desc": "dddddddddd...",
-    "thumbnail": "http://192.168.0.103:3000/1622158382132-Captura-de-tela-2020-12-14-214308.png"
+    "id": "1622208090839",
+    "desc": "Na última quarta-feira (26) a Netflix anunciou novos nomes para o elenco de Sandman. Alguns dos dito...",
+    "thumbnail": "http://192.168.1.6:3000/1622208090839-neil-gaiman-responde-criticas-elenco-sandman.jpg"
+  },
+  {
+    "title": "Cruella | Crítica",
+    "content": "Depois de retificar as origens da vilã Malévola nos filmes estrelados por Angelina Jolie, a Disney resolveu pegar outra de suas figuras vilanescas amplamente detestadas e criar uma história de origem para ela.\r\n\r\nCruella é um filme cuja produção começou pouco depois da estreia de Malévola e que demorou para tomar forma. De acordo com Emma Stone, que dá vida à uma versão mais jovem da vilã que conhecemos em 101 Dálmatas, a ideia nasceu há cerca de seis anos e, de lá para cá, foi desenvolvida por uma série de roteiristas até chegar na versão que chegou às telinhas do Disney+.\r\n\r\nA trama mostra as origens de Cruella, indo desde sua infância até sua entrada caótica no mundo da moda. Ainda que tenha ligações tanto com o filme live-action de 101 Dálmatas lançado em 1996 quanto com o desenho de 1961, o longa deixa pontas soltas que não necessariamente são amarradas nas produções anteriores, funcionando como uma versão alternativa da personagem e não como uma antecessora direta da versão interpretada por Glenn Close (que, inclusive, participou da produção deste filme).\r\n\r\nEmma Stone é Estella e Cruella, representando dois lados de uma mesma jovem que sofre para se adaptar à sociedade, seja por suas ideias diferentes ou por seu cabelo biologicamente meio preto e meio branco. Após virar órfã enquanto ainda era apenas uma menina, Estella conhece Jasper e Horace e passa a roubar pelas ruas de Londres para viver. Obcecada por moda, a protagonista conquista uma chance de trabalhar em uma loja de roupas e, depois, de trabalhar para a Baronesa (Emma Thompson), uma estilista renomada e igualmente obcecada que é capaz de usar tudo o que está a seu alcance para se manter no poder.\r\n\r\nA dinâmica entre as personagens bebe da fonte de O Diabo Veste Prada (2006), explicitando sentimentos de admiração e ódio simultaneamente, quase levando o público a simpatizar com a mocinha Estella — que, devo lembrar a vocês, também é a vilã Cruella. Tanto Stone quanto Thompson estão excelentes em seus papéis, interpretando situações absurdas vestidas como peças de arte e mantendo a seriedade necessária para que suas caricatas personagens tenham ainda mais impacto.\r\n\r\nHá momentos de maior sensibilidade em que podemos ver um lado mais humano e familiar da protagonista, como quando ela ainda é criança logo no começo do filme ou quando contracena com Joel Fry e Paul Walter Hauser, que interpretam Jasper e Horace, os “capangas”. Curiosamente, outro personagem muito querido é justamente o cachorrinho de estimação de Estella, que não é um dálmata. E, antes que me perguntem, nenhum cãozinho é machucado durante as mais de duas horas do filme.",
+    "category": "entertainment",
+    "id": "1622208146140",
+    "desc": "Depois de retificar as origens da vilã Malévola nos filmes estrelados por Angelina Jolie, a Disney r...",
+    "thumbnail": "http://192.168.1.6:3000/1622208146140-cruella-critica.jpg"
+  },
+  {
+    "title": "Rina Sawayama se junta ao elenco de John Wick 4",
+    "content": "Rina Sawayama foi confirmada no elenco de John Wick 4.\r\n\r\nCantora de sucesso, ela fará sua estreia nos cinemas no novo capítulo da franquia protagonizada por Keanu Reeves. Ao Deadline, o diretor Chad Stahelski celebrou a novidade:\r\n\r\n“Estou muito feliz por ter Rina a bordo para fazer sua estreia nos filmes em John Wick: Capítulo 4. Ela é um talento incrível que vai agregar muito.”\r\n\r\nJohn Wick 4 está previsto para estrear no dia 27 de maio de 2022 nos EUA e ainda não há previsão para o lançamento do quinto.",
+    "category": "entertainment",
+    "id": "1622208225076",
+    "desc": "Rina Sawayama foi confirmada no elenco de John Wick 4.\r\n\r\nCantora de sucesso, ela fará sua estreia n...",
+    "thumbnail": "http://192.168.1.6:3000/1622208225076-john-wick-4-confirma-rina-sawayama.jpg"
+  },
+  {
+    "title": "Roteirista explica motivo para Scott Derrickson abandonar direção de Doutor Estranho 2",
+    "content": "Roteirista do primeiro filme do Doutor Estranho, C. Robert Cargill revelou que Scott Derrickson abandonou a direção da sequência porque a Marvel queria um filme diferente do que ele havia planejado.\r\n\r\nEm entrevista ao CinemaBlend, o escritor afirmou que “Foram diferenças criativas. [Scott Derrickson] queria fazer um filme e a Marvel queria outro”.\r\n\r\nAlém das discordâncias com o estúdio, a decisão de Scott Derrickson foi inspirada por um outro projeto. O diretor estava empolgado para comandar The Black Phone, adaptação do conto homônimo de Joe Hill, cujo roteiro ele próprio escreveu em parceria com Cargill.\r\n\r\nO roteirista relembra que as duas situações terem acontecido ao mesmo tempo foi fundamental para o amigo deixar Doutor Estranho:\r\n\r\n“Tudo dependia do Scott e ele estava meio ‘bem, eu posso fazer esse filme em que estou desistindo de tudo o que gostaria de fazer, ou posso fazer The Black Phone. Quer saber? Quero fazer um filme com Cargill’. Como ele disse publicamente, foi uma decisão difícil deixar o Estranho para trás. Mas tornou mais fácil o fato de que tinha outro filme que ele gostaria de fazer.”\r\n\r\nCom direção de Sam Raimi (Homem-Aranha), Doctor Strange in the Multiverse of Madness tem estreia prevista para 25 de março de 2022, nos EUA.",
+    "category": "entertainment",
+    "id": "1622208286480",
+    "desc": "Roteirista do primeiro filme do Doutor Estranho, C. Robert Cargill revelou que Scott Derrickson aban...",
+    "thumbnail": "http://192.168.1.6:3000/1622208286480-roteirista-explica-motivo-scott-derrickson-deixou-doutor-estranho-2.jpg"
+  },
+  {
+    "title": "Bolsonaro aciona STF contra decretos estaduais que impõem restrições na pandemia",
+    "content": "O presidente Jair Bolsonaro (sem partido) entrou nesta quinta-feira, 28, com uma nova ação no Supremo Tribunal Federal (STF) contra medidas restritivas impostas por governadores para conter o avanço da pandemia. O pedido é para derrubar decretos de Pernambuco, Paraná e Rio Grande do Norte.\r\n\r\n\r\nO governo alega que os Estados não têm autorização legal para determinar, unilateralmente, ‘toques de recolher’ e ‘lockdown’. \"A decretação de medidas de fundo sanitário com trágicas consequências para os direitos das pessoas somente pode ser viabilizada por meio de instrumentos institucionais compatíveis com a democracia e o Estado de Direito\", diz um trecho da ação. O documento é assinado pelo próprio presidente e pelo advogado geral da União, André Mendonça.\r\n\r\nEm março, Bolsonaro já havia entrado com uma ação para tentar derrubar decretos da Bahia, do Distrito Federal e do Rio Grande do Sul que determinaram ‘toques de recolher’ como estratégia de enfrentamento da covid-19. O pedido foi rejeitado pelo ministro Marco Aurélio Mello. Na ocasião, o decano do STF entendeu que caberia à AGU formalizar o pedido.\r\n\r\nDesde o início da pandemia, o Supremo tem sido acionado para arbitrar a briga travada pelos entes federativos em torno das estratégias para conter o surto do novo coronavírus. Em abril do ano passado, os ministros decidiram que governantes locais têm autonomia para adotar medidas de quarentena e isolamento social. Na nova ofensiva contra os governadores, Bolsonaro deixa claro que não está contestando a prerrogativa, mas argumenta que ‘algumas dessas medidas não se compatibilizam com preceitos constitucionais inafastáveis’.\r\n\r\n\"Mais do que isso, essas medidas ignoraram a necessidade de promover a harmonização da proteção da saúde com outros direitos fundamentais que compõem a dimensão do mínimo existencial das pessoas, dentre eles o direito de trabalhar para a obtenção do sustento vital. Em decorrência de atos como o ora questionados, estima-se que milhões de brasileiros encontram-se impedidos pelo poder público local de exercer um dos mais básicos direitos do ser humano, que é o de lutar pela subsistência própria e familiar\", afirma o presidente.",
+    "category": "political",
+    "id": "1622208492160",
+    "desc": "O presidente Jair Bolsonaro (sem partido) entrou nesta quinta-feira, 28, com uma nova ação no Suprem...",
+    "thumbnail": "http://192.168.1.6:3000/1622208492160-20210527234409570737u.jpg"
+  },
+  {
+    "title": "Governo alerta para a pior seca em 111 anos em Minas e mais 4 estados",
+    "content": "O governo deve emitir alerta de emergência hídrica para o período de junho a setembro em cinco Estados brasileiros - Minas Gerais, Goiás, Mato Grosso do Sul, São Paulo e Paraná. Todos estão na bacia do Rio Paraná, onde se concentra parte da produção agropecuária e grandes hidrelétricas. Na região, a situação é classificada como \"severa\" e a previsão é de pouco volume de chuvas para o período.\r\n\r\nÉ o primeiro alerta dessa natureza em 111 anos de serviços meteorológicos do País. A medida corrobora as declarações do presidente Jair Bolsonaro e do ministro das Minas e Energia, Bento Albuquerque, de que o Brasil enfrenta a maior crise hídrica dos últimos tempos.\r\n\r\nO alerta, obtido pelo Broadcast/Estadão, será divulgado de forma conjunta hoje pelo Sistema Nacional de Meteorologia (SNM), órgãos federais ligados à meteorologia, a Agência Nacional de Águas e Saneamento Básico (ANA) e o Centro Nacional de Monitoramento e Alerta de Desastres Naturais (Cemaden). No documento, as instituições reforçam que a emergência hídrica é associada à escassez de precipitação na região hidrográfica e a previsão de que o cenário persista até setembro.",
+    "category": "political",
+    "id": "1622208560940",
+    "desc": "O governo deve emitir alerta de emergência hídrica para o período de junho a setembro em cinco Estad...",
+    "thumbnail": "http://192.168.1.6:3000/1622208560940-20210528084707340793e.jpg"
+  },
+  {
+    "title": "Defesa de Lula pede conclusão do julgamento de suspeição de Moro",
+    "content": "A defesa do ex-presidente Lula pediu ao presidente do Supremo Tribunal Federal, ministro Luiz Fux, a conclusão do julgamento, pelo Plenário da corte, sobre a suspeição do ex-juiz Sergio Moro. Já há maioria formada para reconhecer a suspeição, mas o julgamento foi interrompido após pedido de vista do ministro Marco Aurélio.\r\n\r\nCristiano Zanin Martins, Valeska Teixeira Martins, Maria de Lourdes Lopes, Guilherme Gonçalves e Eliakin Tatsuo dos Santos, que representam o ex-presidente, apontam que os autos foram devolvidos pelo decano para julgamento no último dia 29 de abril. Porém, o feito ainda não foi incluído na pauta do Plenário.\r\n\r\nOs advogados lembram que o Regimento Interno do STF prevê um prazo para apresentação dos autos de 30 dias, a partir da publicação da ata de julgamento. \"Torna-se imperioso que seja o feito pautado para o prosseguimento da votação, como determina a norma regimental, a fim de que se possa aplicar as consequências jurídicas definitivas do quanto decidido\", diz o documento enviado a Fux.\r\n\r\nA defesa ainda lembra que todos os autos dos processos alcançados pelo Habeas Corpus foram enviados à Justiça Federal do Distrito Federal, e sua tramitação depende da conclusão do julgamento em questão.",
+    "category": "political",
+    "id": "1622208667996",
+    "desc": "A defesa do ex-presidente Lula pediu ao presidente do Supremo Tribunal Federal, ministro Luiz Fux, a...",
+    "thumbnail": "http://192.168.1.6:3000/1622208667996-lula-20213.jpeg"
   }
 ]

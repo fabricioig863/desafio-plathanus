@@ -1,11 +1,11 @@
 import React from 'react';
-import { View, StyleSheet, StatusBar } from 'react-native';
+import { StyleSheet, StatusBar, ScrollView } from 'react-native';
 
 const Screen = ({ children }) => {
   return (
-    <View style={styles.container}>
+    <ScrollView style={styles.container}>
       {children}
-    </View>
+    </ScrollView>
   )
 }
 
