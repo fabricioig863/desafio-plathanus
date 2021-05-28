@@ -1,15 +1,18 @@
 import React from 'react';
-import { StyleSheet } from 'react-native';
-import BlockCard from './BlockCard';
+import BlockCard from './cards/BlockCard';
 
-const FeatureNews = ({ item }) => {
-  return <BlockCard item={item} style={{ marginVertical: 15 }} />;
-}
+import { useNavigation } from '@react-navigation/native';
 
-const styles = StyleSheet.create({
-  container: {
+const FeaturedNews = ({ item }) => {
+  const navigation = useNavigation();
+  return (
+    <BlockCard
+      onPress={() => navigation.navigate('NewsDetail', { item })}
+      item={item}
+      style={{ marginVertical: 15 }}
+    />
+  );
+};
 
-  }
-})
 
-export default FeatureNews;
+export default FeaturedNews;
