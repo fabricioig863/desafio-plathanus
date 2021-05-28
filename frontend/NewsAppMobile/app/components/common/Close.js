@@ -1,12 +1,12 @@
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-import { AntDesign } from '@expo/vector-icons';
+import FontAwesome from 'react-native-vector-icons/FontAwesome';
 
 const Close = ({ onPress }) => {
   return (
     <View style={styles.container}>
-      <AntDesign
-        name='close'
+      <FontAwesome
+        name='times-circle'
         size={25}
         color='white'
         style={styles.icon}
