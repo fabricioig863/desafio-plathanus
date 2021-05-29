@@ -1,7 +1,7 @@
 
 ## 🚀 Projeto
 
-Desafio proposto pela empresa Plathanus, onde consistia desenvolver um App de noticias com front-end react-native e o back-end com nodejs.
+Desafio proposto pela empresa [Plathanus](https://www.plathanus.com.br/) onde consistia desenvolver um App de noticias com front-end mobile feito com react-native e o back-end feito com nodejs.
 Abaixo segue o layout de como ficou o app e como utiliza-lo.
 
 ## 🎨 Layout
@@ -30,7 +30,7 @@ $ yarn
 # Para iniciar o servidor
 $ yarn start
 
-# Ao ver o servidor rodando acessa a página localhost:3333, essa página será a página onde voce cadastrará as noticias.
+# Ao ver o servidor rodando acesse a página no endereço localhost:3333, essa página será a página onde voce cadastrará as noticias, como mostrado no gif acima.
 
 ```
 
