@@ -16,7 +16,7 @@ Desafio proposto pela empresa Plathanus, onde consistia desenvolver um App de no
 
 ![Layout do projeto](./assets/gif-appnews.gif)
 
-![Layout do projeto](./assets/image-tela-cadastro-noticias.png)
+![Layout do projeto](./assets/cadastro.gif)
 
 ## 💻 Como utilizar
 

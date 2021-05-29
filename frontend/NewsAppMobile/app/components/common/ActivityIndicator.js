@@ -10,7 +10,7 @@ const ActivityIndicator = ({ visible }) => {
       <LottieView
         source={require('../../../assets/loading.json')}
         autoPlay
-        loop
+        loop={false}
       />
     </View>
   );
