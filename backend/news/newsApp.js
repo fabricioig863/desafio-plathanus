@@ -47,7 +47,7 @@ class News {
         news.title.toLowerCase().includes(query.toLowerCase())
       );
     } catch (error) {
-      console.log('Error while searching post.');
+      console.log('Erro ao pesquisar postagem.');
     }
   }
 
