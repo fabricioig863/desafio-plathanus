@@ -6,5 +6,4 @@ const PoliticalNews = ({ data }) => {
 
 }
 
-
 export default PoliticalNews;

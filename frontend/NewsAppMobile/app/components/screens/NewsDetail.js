@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 
 import newsApi from '../../api/newsApi';
-import HorizontalList from '../lists/HorizontalList';
+import HorizotalList from '../lists/HorizontalList';
 import Close from '../common/Close';
 import { useNavigation } from '@react-navigation/native';
 import ActivityIndicator from '../common/ActivityIndicator';
@@ -52,7 +52,7 @@ const NewsDetail = ({ route }) => {
           <Text style={styles.content}>{content}</Text>
         </View>
         <View style={styles.relatedPostContainer}>
-          <HorizontalList data={relatedNews} title='Related Posts' />
+          <HorizotalList data={relatedNews} title='Related Posts' />
         </View>
       </ScrollView>
       <Close onPress={() => navigation.popToTop()} />
